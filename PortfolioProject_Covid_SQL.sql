@@ -1,5 +1,5 @@
 # Data Analysis
-# Portfolio Project - 1 - SQL
+# Portfolio Project - 1 - SQL - MySql
 # Analyzing the dataset downloaded from https://ourworldindata.org/covid-deaths
 
 show databases;
